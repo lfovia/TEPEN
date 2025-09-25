@@ -1,6 +1,6 @@
 # TEPEN
 TEPEN: Towards an Ensemble Model for Pixel-based Embodied Navigation
-<img width="940" height="642" alt="image" src="https://github.com/user-attachments/assets/59205304-5958-4a62-8daf-a4664c888610" />
+![Uploading image.png…]()
 
 This work explores the possibility of depth modality to contribute towards pixel navigation. For RGB baseline we have taken the model weights shared in Pixel Navigation paper.
 We train a Depth modality model, with similar dataset, as the dataset was not released.
