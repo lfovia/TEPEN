@@ -30,13 +30,14 @@ Checkpoints for Depth model() , RGBD ensemble model (). Download the D version w
 
 To evaluate the Pixel navigation model
 -----------------------------------------
-For depth model, 
-For RGBD model,
+Update the model path in constants.py
+For depth model, python evaluate_policy_custom_depth_only.py
+For RGB+D model, python evaluate_policy_ensemble.py
 
 To perform zero shot object goal navigation
 -----------------------------------------
-For depth model, 
-For RGBD model,
+Update the model path in constants.py
+For RGB+D model, python objnav_benchmark_ensemble.py
 
 BibTex
 --------
